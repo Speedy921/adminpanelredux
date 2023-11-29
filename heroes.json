@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "bb708c6d-3f81-4c91-b358-b5a8ea6827aa",
+      "name": "йцукен",
+      "description": "нихуя я не умею \nлох обычный \n",
+      "element": "wind"
+    },
+    {
+      "id": "5cc9913e-cb80-4a39-9da2-ebb2e88353e6",
+      "name": "Брат йцукена",
+      "description": "крутой парень\nпрям сын маминой подруги\nно круче",
+      "element": "fire"
+    },
+    {
+      "id": "ba613f82-866b-494d-8220-cf1aa71b5e53",
+      "name": "Саня",
+      "description": "работаю в сильпо",
+      "element": "water"
+    },
+    {
+      "id": "e3f7510a-a517-4335-b561-9637327e0e49",
+      "name": "Яя Туре",
+      "description": "ЦОП",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
